@@ -8,11 +8,15 @@
 
 Iraq is one of the most oil-rich countries in the world. For years following the 2003 invasion, oil rents accounted for over 40–60% of its GDP. Yet basic services like clean water, reliable electricity, and healthcare remained critically underdeveloped. As an Iraqi, this contradiction is not abstract to me. This project uses SQL to investigate the relationship between oil revenue, corruption, and service delivery outcomes in Iraq, asking a simple but loaded question: **Where did the money go?**
 
+<img width="943" height="490" alt="corruption-iraq" src="https://github.com/user-attachments/assets/66bc4998-d869-4365-a076-f0a98b61e69c" />
+
 ## Background
 
 The "resource curse" is a well-documented phenomenon in political economy, the paradox where nations rich in natural resources often experience weaker governance, slower development, and higher corruption than resource-poor peers. Iraq after 2003 is one of the most striking modern examples. Oil revenues flooded state budgets while public infrastructure crumbled, culminating in mass civil unrest in 2019 as citizens demanded electricity, water, and basic dignity.
 
 This project was built to go beyond the headlines and interrogate the data directly. By connecting oil revenue flows, corruption perception scores, and service delivery indicators across a decade, the analysis reveals a consistent pattern: resource wealth and governance quality in Iraq move independently of each other and ordinary Iraqis pay the price.
+
+<img width="943" height="490" alt="oil" src="https://github.com/user-attachments/assets/13ff48b7-ffcb-4f85-8325-002a76d63e58" />
 
 ## Tools I Used
 
