@@ -40,7 +40,7 @@ All datasets are publicly available and widely cited in academic and policy rese
 
 ## Data Cleaning
 
-Raw data from the World Bank and Transparency International arrives in wide format: years as columns, countries as rows — and includes metadata rows, junk headers, and empty cells. Before any analysis could begin, every dataset required significant preparation:
+Raw data from the World Bank and Transparency International arrives in wide format: years as columns, countries as rows and includes metadata rows, junk headers, and empty cells. Before any analysis could begin, every dataset required significant preparation:
 
 - Filtered all datasets to Iraq only
 - Converted wide-format exports to long-format CSVs with year as the primary key
