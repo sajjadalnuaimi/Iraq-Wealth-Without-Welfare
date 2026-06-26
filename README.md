@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Iraq is one of the most oil-rich countries in the world. For years following the 2003 invasion, oil rents accounted for over 40–60% of its GDP. Yet basic services — clean water, reliable electricity, and healthcare — remained critically underdeveloped. As an Iraqi, this contradiction is not abstract to me. This project uses SQL to investigate the relationship between oil revenue, corruption, and service delivery outcomes in Iraq, asking a simple but loaded question: **where did the money go?!**
+Iraq is one of the most oil-rich countries in the world. For years following the 2003 invasion, oil rents accounted for over 40–60% of its GDP. Yet basic services like clean water, reliable electricity, and healthcare remained critically underdeveloped. As an Iraqi, this contradiction is not abstract to me. This project uses SQL to investigate the relationship between oil revenue, corruption, and service delivery outcomes in Iraq, asking a simple but loaded question: **Where did the money go?**
 
 ## Background
 
