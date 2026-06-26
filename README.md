@@ -16,10 +16,10 @@ This project was built to go beyond the headlines and interrogate the data direc
 
 ## Tools I Used
 
-- **PostgreSQL** — designed and built a relational database from scratch, wrote all analytical queries including window functions, joins across five tables, and derived metrics
-- **VS Code + SQLTools** — primary development environment for query writing and execution
-- **Excel** — reshaped wide-format World Bank and CPI exports into clean long-format CSVs ready for database ingestion
-- **GitHub** — version control and public portfolio hosting
+- **PostgreSQL** - designed and built a relational database from scratch, wrote all analytical queries including window functions, joins across five tables, and derived metrics
+- **VS Code + SQLTools** - primary development environment for query writing and execution
+- **Excel** - reshaped wide-format World Bank and CPI exports into clean long-format CSVs ready for database ingestion
+- **GitHub** - version control and public portfolio hosting
 
 ## Data Sources
 
