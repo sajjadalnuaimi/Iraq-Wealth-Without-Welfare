@@ -177,3 +177,6 @@ Iraq's data tells a clear story. Oil revenues fluctuated dramatically between 20
 The inefficiency index created in this analysis shows that Iraq's worst years for governance-to-revenue ratio were its richest oil years. More money flowed in, more was lost before reaching citizens. When revenues collapsed in 2020, the government became marginally more accountable not because things improved, but because there was less to steal.
 
 For Iraq to break this cycle, the answer is not higher oil prices. It is the structural reform of institutions that have learned to survive on extraction rather than accountability, and that is exactly what i wish for my country in the upcoming years.
+
+<img width="943" height="490" alt="iraq-flag" src="https://github.com/user-attachments/assets/d5c20cce-623a-4bfa-b11e-788a24c2e551" />
+
