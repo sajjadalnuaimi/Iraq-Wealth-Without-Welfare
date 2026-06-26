@@ -68,6 +68,8 @@ FROM iraq_master_analysis
 ORDER BY year;
 ```
 
+<img width="800" height="450" alt="yearly_changes_visualization_1" src="https://github.com/user-attachments/assets/363d7196-52fa-44eb-89cc-9d45a18e3561" />
+
 **Finding:** Oil revenue and corruption scores move independently. In years where oil revenue dropped sharply, corruption did not worsen. In years where oil revenue surged, corruption did not improve. The two variables are effectively decoupled.
 
 ---
@@ -87,6 +89,8 @@ SELECT
 FROM iraq_master_analysis
 ORDER BY year;
 ```
+<img width="800" height="450" alt="service_delivery_change_yoy_2" src="https://github.com/user-attachments/assets/aee30601-6a7f-46ca-99de-9dea70bc41b4" />
+
 
 **Finding:** Service delivery improves at a slow, flat rate regardless of oil revenue levels. Water access improved by approximately 0.88-0.90% every year whether oil was at 27% or 49% of GDP. Revenue fluctuations had no meaningful impact on service delivery pace.
 
