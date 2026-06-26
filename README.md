@@ -110,6 +110,7 @@ SELECT
 FROM iraq_master_analysis
 ORDER BY oil_per_corruption_unit DESC;
 ```
+<img width="1024" height="447" alt="The_Inefficiency_Index_3" src="https://github.com/user-attachments/assets/50a8d466-a125-4d30-b6f7-9b63452bb90e" />
 
 **Finding:** 2014 was Iraq's most inefficient year, the highest ratio of oil wealth to governance quality. Ironically, the years with the lowest inefficiency scores (2020-2021) correspond to oil price crashes, suggesting the government became marginally more accountable when resources were constrained.
 
@@ -131,6 +132,7 @@ JOIN iraq_master_analysis m ON p.year = m.year
 GROUP BY p.year, m.oil_rents, m.cpi_score
 ORDER BY p.year;
 ```
+<img width="1024" height="576" alt="Security_trends_04" src="https://github.com/user-attachments/assets/ab1670e1-3801-494a-b13c-d7f8962a5cf1" />
 
 **Finding:** Violence peaked in 2016 at 9,761 events and 56,032 fatalities, the tail end of the ISIS conflict. By 2019, violence had dropped significantly as the military situation stabilized. However, violence rebounded in 2021 despite modest improvements in corruption scores, suggesting that security without governance reform is not sufficient to achieve stability.
 
