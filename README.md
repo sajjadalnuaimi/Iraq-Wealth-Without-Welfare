@@ -107,7 +107,7 @@ FROM iraq_master_analysis
 ORDER BY oil_per_corruption_unit DESC;
 ```
 
-**Finding:** 2014 was Iraq's most inefficient year — the highest ratio of oil wealth to governance quality. Ironically, the years with the lowest inefficiency scores (2020-2021) correspond to oil price crashes, suggesting the government became marginally more accountable when resources were constrained.
+**Finding:** 2014 was Iraq's most inefficient year, the highest ratio of oil wealth to governance quality. Ironically, the years with the lowest inefficiency scores (2020-2021) correspond to oil price crashes, suggesting the government became marginally more accountable when resources were constrained.
 
 ---
 
