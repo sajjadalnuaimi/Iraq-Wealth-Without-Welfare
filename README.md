@@ -171,14 +171,14 @@ ORDER BY m.year;
 
 **Analytically:**
 - Learned that official access statistics (like electricity access at 99%) can be deeply misleading without qualitative context, Iraq had connections but suffered daily blackouts
-- Confirmed the resource curse hypothesis through data: oil wealth and governance quality are decoupled in Iraq
+- The findings are consistent with the resource curse hypothesis through data: oil wealth and governance quality are decoupled in Iraq
 - Discovered that service delivery improvements follow a mechanical, flat trajectory regardless of revenue shocks suggesting structural, not financial, barriers to development
 
 ---
 
 ## Conclusions
 
-Iraq's data tells a clear story. Oil revenues fluctuated dramatically between 2012 and 2021 from a high of 49.61% of GDP to a low of 27.04% yet corruption scores barely moved, services improved at a crawl, and political violence remained severe. The bottleneck is not money. It never was.
+Iraq's data tells a clear story. Oil revenues fluctuated dramatically between 2012 and 2021 from a high of 49.61% of GDP to a low of 27.04% yet corruption scores barely moved, services improved at a crawl, and political violence remained severe.
 
 The inefficiency index created in this analysis shows that Iraq's worst years for governance-to-revenue ratio were its richest oil years. More money flowed in, more was lost before reaching citizens. When revenues collapsed in 2020, the government became marginally more accountable not because things improved, but because there was less to steal.
 
