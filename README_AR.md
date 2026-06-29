@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<a href="README.md">🇺🇸 English</a> | <b>🇮🇶 العربية</b>
+<a href="README.md">US English</a> | <b>AR العربية</b>
 
 </p>
 
