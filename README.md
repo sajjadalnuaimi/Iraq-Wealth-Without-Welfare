@@ -1,3 +1,12 @@
+<p align="center">
+
+<a href="README.md">🇺🇸 <b>English</b></a> |
+<a href="README_AR.md">🇮🇶 العربية</a>
+
+</p>
+
+---
+
 # Iraq: Wealth Without Welfare
 ### An SQL Analysis of Oil Revenue, Corruption, and Service Delivery Collapse (2012–2021)
 ### By: Sajjad Alnuaimi
