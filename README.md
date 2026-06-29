@@ -1,7 +1,7 @@
 <p align="center">
 
-<a href="README.md">🇺🇸 <b>English</b></a> |
-<a href="README_AR.md">🇮🇶 العربية</a>
+<a href="README.md">US <b>English</b></a> |
+<a href="README_AR.md">AR العربية</a>
 
 </p>
 
